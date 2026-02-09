@@ -1,0 +1,9 @@
+
+{
+  "name": "ByteAkademi - Geleceği Kodla",
+  "description": "14 yaşındaki bir yazılımcıdan ilham alarak kodlama öğrenin. HTML/CSS, Roblox ve Discord bot geliştirme kurslarıyla kendi dünyanızı inşa edin.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
